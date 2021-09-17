@@ -12,3 +12,5 @@
 
 .DS_Store
 *.gem
+/.idea/digifi_api.iml
+/.idea/*

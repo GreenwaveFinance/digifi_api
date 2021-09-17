@@ -32,5 +32,5 @@ Gem::Specification.new do |spec|
 
   # Runtime Dependencies
   spec.add_runtime_dependency "rest-client", "~> 2.0.2"
-  spec.add_runtime_dependency "json", "~> 2.1.0"
+  spec.add_runtime_dependency "json", "~> 2.1"
 end
